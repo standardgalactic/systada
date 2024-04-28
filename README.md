@@ -22,7 +22,8 @@ Telesys is an open source terminal font for BBSes and general terminal usage! Th
 </p>
 
 
-
+![](sample-01.jpg)
+![](sample-02.jpg)
 
 
 This font is licenced under the SIL Open Font Licence v1.1 - Contributions and fixes are welcome!
